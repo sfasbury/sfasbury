@@ -8,8 +8,8 @@ Coding Ninja  🥷
 That is so funny! :joy:
 
 ## Sub Heading
-
-
+== Note ==
+E = Mc^2^
 
 | Syntax | Description |
 | ----------- | ----------- |
